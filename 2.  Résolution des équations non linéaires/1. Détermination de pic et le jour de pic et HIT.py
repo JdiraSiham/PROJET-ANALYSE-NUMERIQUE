@@ -1,5 +1,3 @@
-#Détermination de pic et le jour de pic et HIT : 
-
 import pandas as pd 
 import numpy as np 
 import matplotlib.pyplot as plt 
